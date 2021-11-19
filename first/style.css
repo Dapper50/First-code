@@ -1,0 +1,26 @@
+body {
+    color:black;
+background-color: #faebd7;
+font-family: fantasy;
+}
+
+h1 {
+    font-family: cursive;
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+#CSS-anatomy-heading {
+    color: red;
+}
+.under {
+    text-decoration: underline;
+}
+
+#introduction-ps {
+    font-style: italic;
+    font-size: 0.7em;
+}
